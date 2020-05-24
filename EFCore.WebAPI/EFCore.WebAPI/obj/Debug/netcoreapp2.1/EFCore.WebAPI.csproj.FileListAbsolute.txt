@@ -1,0 +1,14 @@
+C:\AspNet-APIs\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp2.1\EFCore.WebAPI.deps.json
+C:\AspNet-APIs\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp2.1\EFCore.WebAPI.runtimeconfig.json
+C:\AspNet-APIs\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp2.1\EFCore.WebAPI.runtimeconfig.dev.json
+C:\AspNet-APIs\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp2.1\EFCore.WebAPI.dll
+C:\AspNet-APIs\EFCore.WebAPI\EFCore.WebAPI\bin\Debug\netcoreapp2.1\EFCore.WebAPI.pdb
+C:\AspNet-APIs\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.1\EFCore.WebAPI.csprojAssemblyReference.cache
+C:\AspNet-APIs\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.1\EFCore.WebAPI.csproj.CoreCompileInputs.cache
+C:\AspNet-APIs\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.1\EFCore.WebAPI.RazorAssemblyInfo.cache
+C:\AspNet-APIs\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.1\EFCore.WebAPI.RazorAssemblyInfo.cs
+C:\AspNet-APIs\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.1\EFCore.WebAPI.AssemblyInfoInputs.cache
+C:\AspNet-APIs\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.1\EFCore.WebAPI.AssemblyInfo.cs
+C:\AspNet-APIs\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.1\EFCore.WebAPI.RazorTargetAssemblyInfo.cache
+C:\AspNet-APIs\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.1\EFCore.WebAPI.dll
+C:\AspNet-APIs\EFCore.WebAPI\EFCore.WebAPI\obj\Debug\netcoreapp2.1\EFCore.WebAPI.pdb
