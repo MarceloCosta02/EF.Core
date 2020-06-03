@@ -1,0 +1,12 @@
+C:\AspNet-APIs\EF.Core\EFCore.WebAPI\EFCore.Repo\bin\Debug\netstandard2.0\EFCore.Repo.deps.json
+C:\AspNet-APIs\EF.Core\EFCore.WebAPI\EFCore.Repo\bin\Debug\netstandard2.0\EFCore.Repo.dll
+C:\AspNet-APIs\EF.Core\EFCore.WebAPI\EFCore.Repo\bin\Debug\netstandard2.0\EFCore.Repo.pdb
+C:\AspNet-APIs\EF.Core\EFCore.WebAPI\EFCore.Repo\bin\Debug\netstandard2.0\EFCore.Dominio.dll
+C:\AspNet-APIs\EF.Core\EFCore.WebAPI\EFCore.Repo\bin\Debug\netstandard2.0\EFCore.Dominio.pdb
+C:\AspNet-APIs\EF.Core\EFCore.WebAPI\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.csprojAssemblyReference.cache
+C:\AspNet-APIs\EF.Core\EFCore.WebAPI\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.csproj.CoreCompileInputs.cache
+C:\AspNet-APIs\EF.Core\EFCore.WebAPI\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.AssemblyInfoInputs.cache
+C:\AspNet-APIs\EF.Core\EFCore.WebAPI\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.AssemblyInfo.cs
+C:\AspNet-APIs\EF.Core\EFCore.WebAPI\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.csproj.CopyComplete
+C:\AspNet-APIs\EF.Core\EFCore.WebAPI\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.dll
+C:\AspNet-APIs\EF.Core\EFCore.WebAPI\EFCore.Repo\obj\Debug\netstandard2.0\EFCore.Repo.pdb

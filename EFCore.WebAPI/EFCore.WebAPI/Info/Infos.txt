@@ -12,3 +12,5 @@ no console do gerenciador de pacotes (Verificar se já não estão instalados) >
 install-package microsoft.entityframeworkcore.tools install-package microsoft.entityframeworkcore.sqlserver
 
 Scaffold-DbContext -provider microsoft.entityframeworkcore.sqlserver -connection "Password=Ibirapuera279;Persist Security Info=False;User ID=sa;Initial Catalog=HeroApp;Data Source=LTOSA0329B"  
+
+Quando dividir em camadas a aplicação, rodar o Console do Gerenciador de Pacotes com o projeto Padrão sendo o Repositorio
